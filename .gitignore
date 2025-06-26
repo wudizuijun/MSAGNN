@@ -1,0 +1,8 @@
+.vscode
+lightning_logs
+**/__pycache__
+results
+runs
+data/METR-LA
+data/te_delay
+*.env
