@@ -6,7 +6,7 @@ The figure below illustrates the proposed Multi-Source Attention Graph Neural Ne
 
 ![Image](https://github.com/user-attachments/assets/d8de9cce-b41d-4650-ab54-baba0b31b93f)
 
-[![image](/imgs/2025-06-30/NbY2MEHg65I0WNa4.png)](https://github.com/wudizuijun/picture/issues/4)
+![Image](https://github.com/user-attachments/assets/d3335152-3719-48c4-ba15-324b805f8428)
 
 
 ## Requirements 
