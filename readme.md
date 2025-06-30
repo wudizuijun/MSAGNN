@@ -45,6 +45,5 @@ After training, the prediction results and logs will be automatically saved in t
 @misc{wang2025MSAGNN,                        
   title  = {A Multi-Source Attention Graph Neural Network for Modeling Long and Short-Term Dependencies in Chemical Process Forecasting},
   author = {Jian Long and bin wang and Haifei Peng and Hengmin Zhang},
-  year   = {2025},
-  url    = {https://github.com/wudizuijun/AttenGRU.git}
+  year   = {2025}
 }
