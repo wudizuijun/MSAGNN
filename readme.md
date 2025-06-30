@@ -4,7 +4,7 @@ A Dual-Path GNN Integrating Static and Dynamic Graphs for Soft Sensor Modeling i
 ### Model and Results
 The figure below illustrates the proposed Multi-Source Attention Graph Neural Network (MSAGNN) framework, which consists of industrial process data sampling, graph structure learning, attention mechanism fusion, GRU-based temporal modeling, and final output prediction.
 
-![MSAGNN structure](https://github.com/user-attachments/assets/ee0b93df-0c21-4dc7-9ac8-30a474a330d8)
+![Image](https://github.com/user-attachments/assets/d8de9cce-b41d-4650-ab54-baba0b31b93f)
 
 ![result](https://github.com/user-attachments/assets/0d3c3ca4-e639-48c0-b93c-6fa47130a257)
 
